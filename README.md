@@ -74,7 +74,8 @@ To create orthographic view of given 3D model
 <img width="1920" height="1080" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/b7867aa3-260d-43fc-a2a0-aefe7f6f22a1" />
 
 ## OUTPUT
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/959f0542-afc2-42a2-84da-407d75cda07c" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/89f83c45-b4a8-4666-b1fe-e85f7603d887" />
+
 
 
 ## RESULT:

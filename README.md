@@ -14,12 +14,15 @@ To create orthographic view of given 3D model
 1. Open Autodesk Fusion 360 and create a new design by selecting File → New Design.
 
 2. Select the Create Sketch tool and choose the required plane (XY, XZ, or YZ) to begin drawing the base profile.
-   <img width="1092" height="692" alt="image" src="https://github.com/user-attachments/assets/0dccbaf2-fee7-4683-a095-ce1f31e3c1ac" />
+   <img width="442" height="653" alt="Screenshot 2026-11-16 010723" src="https://github.com/user-attachments/assets/9d3eacf3-bde7-49ad-9766-69440a465dbc" />
+
 
 
 4. Use the Line, Circle, Arc, and Rectangle tools to create the required 2D profile according to the given engineering drawing.
    <img width="51" height="51" alt="Screenshot 2026-11-16 015231" src="https://github.com/user-attachments/assets/675850a3-e0b2-45b0-878d-fc4c651f60c9" />
    <img width="43" height="46" alt="Screenshot 2026-11-16 014652" src="https://github.com/user-attachments/assets/e3b7a910-bf4e-4e3b-a281-d82622c7a5dc" />
+   <img width="52" height="46" alt="Screenshot 2026-11-16 014634" src="https://github.com/user-attachments/assets/20104c4a-65aa-47b8-ba7c-09b3d50bd511" />
+
     <img width="52" height="46" alt="Screenshot 2026-11-16 014634" src="https://github.com/user-attachments/assets/b7316709-448d-459b-aa4e-441aeffa4ea4" />
     <img width="192" height="82" alt="Screenshot 2026-11-16 020954" src="https://github.com/user-attachments/assets/e944cda5-f1ef-457b-9b94-d3eb189b924d" />
 
@@ -69,13 +72,9 @@ To create orthographic view of given 3D model
 
 ## INPUT
 <img width="1920" height="1080" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/b7867aa3-260d-43fc-a2a0-aefe7f6f22a1" />
-## OUTPUT:
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fc54e5a4-77f9-4786-b87b-efe54b95a4e1" />
-
-
-
 
 ## OUTPUT
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/959f0542-afc2-42a2-84da-407d75cda07c" />
 
 
 ## RESULT:
